@@ -11,7 +11,7 @@ Below are some previews of the core features and UI of Expense-IQ:
 
 | Transactions Overview | Analytics & Trends |
 | :---: | :---: |
-| <img src="./transactions.png" alt="Transactions Page" width="400"/> | <img src="./Analystics.png" alt="Analytics Page" width="400"/> |
+| <img src="./Transactions.png" alt="Transactions Page" width="400"/> | <img src="./Analytics.png" alt="Analytics Page" width="400"/> |
 
 | Budget Management | Categories Management |
 | :---: | :---: |
